@@ -1,0 +1,73 @@
+.tituloprincipal{
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    padding-top: 1rem;  
+}
+h1{
+    text-align: center;
+    justify-items: center;
+    text-align: center;
+
+}
+
+body{background-color: rgb(218, 49, 7);}
+.main2{background-color: rgb(218, 49, 7);}
+
+.parrafos{background-color: rgb(255, 255, 255);
+justify-content: center;
+}
+
+.apartadodetalle{
+    padding-top: 2rem;
+}
+.botondetalle{
+
+}
+.botondetalle{
+    background-color: rgb(14, 131, 160);
+    border-color: rgb(14, 131, 160);
+    }
+.botondetalle:hover{
+    background-color: rgb(14, 131, 160);
+    border-color: rgb(14, 131, 160);
+    }
+.botondetalle:active{
+    background-color: rgb(14, 131, 160);
+    border-color: rgb(14, 131, 160);
+}
+.botondetalle a{
+    color: white;
+}
+.volveratras{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    align-items: center; 
+    align-content: center;
+    color: white;
+    text-decoration: none;
+
+}
+.decomenu{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    align-items: center; 
+    align-content: center;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    align-items: center; 
+    align-content: center;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
